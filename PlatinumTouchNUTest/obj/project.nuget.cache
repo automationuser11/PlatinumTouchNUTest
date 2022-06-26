@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgHu829kX+GQ+ysMWGFs/r4nifCFqARQlWwBURIg5QT9PYdZz5fh3osG7/lnEnfEw8nSAvBh/LvaGfMtCDGPoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\automationuser1\\source\\repos\\Platinum\\PlatinumTouchNUTest\\PlatinumTouchNUTest\\PlatinumTouchNUTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\automationuser1\\.nuget\\packages\\allure.commons\\3.5.0.73\\allure.commons.3.5.0.73.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\aspectinjector\\2.6.0\\aspectinjector.2.6.0.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\mimetypesmap\\1.0.8\\mimetypesmap.1.0.8.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\nunit.allure\\1.2.1.1\\nunit.allure.1.2.1.1.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\selenium.support\\4.2.0\\selenium.support.4.2.0.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512",
+    "C:\\Users\\automationuser1\\.nuget\\packages\\selenium.webdriver.chromedriver\\102.0.5005.6102\\selenium.webdriver.chromedriver.102.0.5005.6102.nupkg.sha512"
+  ],
+  "logs": []
+}
